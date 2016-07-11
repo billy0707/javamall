@@ -10,4 +10,5 @@
     <cache name="goods_cat" maxElementsInMemory="25600" eternal="true" overflowToDisk="true"/>
     <cache name="article_cat" maxElementsInMemory="25600" eternal="true" overflowToDisk="true"/>
     <cache name="sitemap" maxElementsInMemory="25600" eternal="true" overflowToDisk="true"/>
+    
 </ehcache>
