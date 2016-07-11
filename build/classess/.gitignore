@@ -1,0 +1,13 @@
+/com/
+/config/
+/ehcache.xml
+/eop.properties
+/freemarker/
+/log4j.properties
+/safeurl.xml
+/spring/
+/struts-base.xml
+/struts-cms.xml
+/struts-shop.xml
+/struts.xml
+/testspring/
